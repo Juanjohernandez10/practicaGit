@@ -2,13 +2,10 @@ h1{
     color: rgba(217, 163, 187, 0.781);
     font-size: 50px;
 }
-
-
 p{
     color: rgba(8, 238, 8, 0.349);
     font-size: 20px;
 }
-h1 :hover{
+h1:hover{
     color:rgb(3, 227, 227);
-
 }
